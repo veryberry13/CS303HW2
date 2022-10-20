@@ -1,6 +1,6 @@
 The README file contains instruction on how to run the code and screen shots of the outputs to validate the code's functionality.
 
- 1. Open Microsoft Visual Studio and run CS303HW2.cpp file for homework 2 problem 1 and CS303HW2_2.cpp for homework 2 problem 2.
+ 1. Open Microsoft Visual Studio and run CS303HW2.cpp file for homework 2 from problem 1 folder and CS303HW2_2.cpp for homework 2 from problem 2 folder.
  2. Follow the prompts. ( Below are screenshots of the output after running the file(s) and after each user input type.)
  
  #1
